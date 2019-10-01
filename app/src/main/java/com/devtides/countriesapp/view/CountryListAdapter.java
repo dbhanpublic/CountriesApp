@@ -47,7 +47,7 @@ public class CountryListAdapter extends RecyclerView.Adapter<CountryListAdapter.
     public int getItemCount() {
         return countries.size();
     }
-
+    //test
     class CountryViewHolder extends RecyclerView.ViewHolder {
 
         @BindView(R.id.imageView)
